@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors: {{ cookiecutter.author_name }} 
+title: {{ cookiecutter.project_name }}
+version: {{ cookiecutter.app_version }}
+doi: {{ cookiecutter.DOI }}
+date-released: {{ cookiecutter.release_date }}
+url: {{ cookiecutter.git_base_url }}
