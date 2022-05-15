@@ -75,8 +75,6 @@ The directory structure of your new project looks like this:
     └── tox.ini                <- tox file with settings for running tox; see tox.testrun.org
 
 
---------
-
 ### Installing development requirements
 ------------
 
