@@ -1,6 +1,5 @@
 # connexion requires werkzeug but connexion < 2.4.0 does not install werkzeug
 # we must peg werkzeug versions below to fix connexion
 # https://github.com/zalando/connexion/pull/1044
-werkzeug == 2.0.2; 
-python_version=="3.5" or python_version=="3.4"
+werkzeug == 2.0.2;
 aiohttp_jinja2 == 1.2.0
