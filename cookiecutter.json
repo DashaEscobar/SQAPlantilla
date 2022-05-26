@@ -18,5 +18,6 @@
     "[Info] release_date - Date on which the application was officialy released": "Press Enter and configure",
     "release_date": "",
     "[Info] DOI - DOI associated": "Press Enter and configure",
-    "DOI": ""
+    "DOI": "",
+    "_copy_without_render": [".github/*", "tests/test_creation.py"]
 }
