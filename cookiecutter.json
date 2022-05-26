@@ -15,8 +15,8 @@
     "app_version": "0.0.1",
     "[Info] open_source_license - Select one of the licenses, default is MIT. For more info: https://opensource.org/licenses": "Press Enter and configure",
     "open_source_license": ["MIT", "Apache 2.0", "BSD-3-Clause", "No license file"],
-    "[Info] release_date - Date on which the application was officialy released",
+    "[Info] release_date - Date on which the application was officialy released": "Press Enter and configure",
     "release_date": "",
-    "[Info] DOI - DOI associated",
-    "DOI": "",
+    "[Info] DOI - DOI associated": "Press Enter and configure",
+    "DOI": ""
 }
